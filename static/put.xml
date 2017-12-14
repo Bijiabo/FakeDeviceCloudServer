@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<monitoring>
+    <cmd>put</cmd>
+    <data>
+        <put>
+            <set_time>1438662643073</set_time>
+            <pass>IKk4dEFt</pass>
+
+            <next_comm>10000</next_comm>
+            <center_addr>shcloud-rd.sharp.cn</center_addr>
+        </put>
+    </data>
+</monitoring>

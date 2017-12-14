@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cmonitoring>
+    <cmd>control</cmd>
+    <data>
+        <control version="1.0">
+            <conf>
+                <set_time>1438662644006</set_time>
+                <pass>IKk4dEFt</pass>
+                <center_addr>shcloud-rd.sharp.cn</center_addr>
+            </conf>
+            <devctrl>
+                <echo id="1" node="FF-FF-FF-FF-CH-N1">05ff010135016102f3081442000000000100800130</echo>
+                <echo id="2" node="FF-FF-FF-FF-CH-N1">05ff01013501620f800081008200840085008600880089008b00a000c000f000f100f200f300</echo>—指令2，后附机器指令的详细说明（2）
+            </devctrl>
+        </control>
+    </data>  
+</cmonitoring>

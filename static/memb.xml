@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<monitoring>
+    <cmd>memb</cmd>
+    <data>
+        <member>1</member>
+        <extension>
+            <box_id>https://vmdb.cloudlabs.sharp.co.jp/clpf/key/u7NdgXmkPzzAQVqjd34wG--w2OKp6S5VD3DSSXuIBgk</box_id>       
+    </extension>
+    </data>
+</monitoring>
